@@ -4,15 +4,17 @@
 
 #### Desktop view
 
-<img src="desktop.png" width="500">
+<img src="desktop.png" width="500"> <img src="desktop-dark.png" width="500">
 
 #### Tablet view
 
-<img src="tablet.png" width="300"> <img src="tablet-menu-open.png" width="300">
+<img src="tablet.png" width="500"> <img src="tablet-menu-open.png" width="500">
+<br/>
+<img src="tablet-dark.png" width="500"> <img src="tablet-dark-menu-open.png" width="500">
 
 #### Mobile view
 
-<img src="mobile.png" width="200"> <img src="mobile-menu-open.png" width="200">
+<img src="mobile.png" width="200"> <img src="mobile-menu-open.png" width="200"> <img src="mobile-dark.png" width="200"> <img src="mobile-dark-menu-open.png" width="200">
 
 This project includes frontend and backend which is providing a website to search photos from [Unsplash](https://unsplash.com).
 
