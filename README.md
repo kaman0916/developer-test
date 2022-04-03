@@ -4,13 +4,13 @@
 
 #### Desktop view
 
-<img src="desktop.png" width="500"> <img src="desktop-dark.png" width="500">
+<img src="desktop.png" width="400"> <img src="desktop-dark.png" width="400">
 
 #### Tablet view
 
-<img src="tablet.png" width="500"> <img src="tablet-menu-open.png" width="500">
+<img src="tablet.png" width="400"> <img src="tablet-menu-open.png" width="400">
 <br/>
-<img src="tablet-dark.png" width="500"> <img src="tablet-dark-menu-open.png" width="500">
+<img src="tablet-dark.png" width="400"> <img src="tablet-dark-menu-open.png" width="400">
 
 #### Mobile view
 
